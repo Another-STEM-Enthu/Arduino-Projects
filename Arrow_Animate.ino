@@ -1,5 +1,5 @@
 //Varad Deshpande
-//Different frames are made for the arrow. Kind of like, sampling the shape of the arrow in time and sequentially fed to the LCD display
+//Different frames are made for the arrow. Kind of like, sampling the shape of the arrow in time and sequentially feeding it to the LCD display
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
