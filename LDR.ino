@@ -1,4 +1,5 @@
 //Varad Deshpande
+//prints the reading from an LDR, to check whether anything covers it or not. Can be implemented in automatic lighting when door of a room opens
 void setup() {
  pinMode(A0,INPUT);
  pinMode(8,OUTPUT);
